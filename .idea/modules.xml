@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-FactoryPattern/01-FactoryPattern.iml" filepath="$PROJECT_DIR$/01-FactoryPattern/01-FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-AbstractFactoryPattern/02-AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/02-AbstractFactoryPattern/02-AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-SingletonPattern/03-SingletonPattern.iml" filepath="$PROJECT_DIR$/03-SingletonPattern/03-SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-BuilderPattern/04-BuilderPattern.iml" filepath="$PROJECT_DIR$/04-BuilderPattern/04-BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-PrototypePattern/05-PrototypePattern.iml" filepath="$PROJECT_DIR$/05-PrototypePattern/05-PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-AdapterPattern/06-AdapterPattern.iml" filepath="$PROJECT_DIR$/06-AdapterPattern/06-AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-BridgePattern/07-BridgePattern.iml" filepath="$PROJECT_DIR$/07-BridgePattern/07-BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-FilterPattern/08-FilterPattern.iml" filepath="$PROJECT_DIR$/08-FilterPattern/08-FilterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-CompositePattern/09-CompositePattern.iml" filepath="$PROJECT_DIR$/09-CompositePattern/09-CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-DecoratorPattern/10-DecoratorPattern.iml" filepath="$PROJECT_DIR$/10-DecoratorPattern/10-DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-FacadePattern/11-FacadePattern.iml" filepath="$PROJECT_DIR$/11-FacadePattern/11-FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-FlyweightPattern/12-FlyweightPattern.iml" filepath="$PROJECT_DIR$/12-FlyweightPattern/12-FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-ProxyPattern/13-ProxyPattern.iml" filepath="$PROJECT_DIR$/13-ProxyPattern/13-ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-ChainOfResponsibilityPattern/14-ChainOfResponsibilityPattern.iml" filepath="$PROJECT_DIR$/14-ChainOfResponsibilityPattern/14-ChainOfResponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-CommandPattern/15-CommandPattern.iml" filepath="$PROJECT_DIR$/15-CommandPattern/15-CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-InterpreterPattern/16-InterpreterPattern.iml" filepath="$PROJECT_DIR$/16-InterpreterPattern/16-InterpreterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-IteratorPattern/17-IteratorPattern.iml" filepath="$PROJECT_DIR$/17-IteratorPattern/17-IteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-MediatorPattern/18-MediatorPattern.iml" filepath="$PROJECT_DIR$/18-MediatorPattern/18-MediatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-MementoPattern/19-MementoPattern.iml" filepath="$PROJECT_DIR$/19-MementoPattern/19-MementoPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-ObserverPattern/20-ObserverPattern.iml" filepath="$PROJECT_DIR$/20-ObserverPattern/20-ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-StatePattern/21-StatePattern.iml" filepath="$PROJECT_DIR$/21-StatePattern/21-StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-NullObjectPattern/22-NullObjectPattern.iml" filepath="$PROJECT_DIR$/22-NullObjectPattern/22-NullObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-StrategyPattern/23-StrategyPattern.iml" filepath="$PROJECT_DIR$/23-StrategyPattern/23-StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-TemplatePattern/24-TemplatePattern.iml" filepath="$PROJECT_DIR$/24-TemplatePattern/24-TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-VisitorPattern/25-VisitorPattern.iml" filepath="$PROJECT_DIR$/25-VisitorPattern/25-VisitorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-MVCPattern/26-MVCPattern.iml" filepath="$PROJECT_DIR$/26-MVCPattern/26-MVCPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-BusinessDelegatePattern/27-BusinessDelegatePattern.iml" filepath="$PROJECT_DIR$/27-BusinessDelegatePattern/27-BusinessDelegatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-CompositeEntityPattern/28-CompositeEntityPattern.iml" filepath="$PROJECT_DIR$/28-CompositeEntityPattern/28-CompositeEntityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-DataAccessObjectPattern/29-DataAccessObjectPattern.iml" filepath="$PROJECT_DIR$/29-DataAccessObjectPattern/29-DataAccessObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-FrontControllerPattern/30-FrontControllerPattern.iml" filepath="$PROJECT_DIR$/30-FrontControllerPattern/30-FrontControllerPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-InterceptingFilterPattern/31-InterceptingFilterPattern.iml" filepath="$PROJECT_DIR$/31-InterceptingFilterPattern/31-InterceptingFilterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-ServiceLocatorPattern/32-ServiceLocatorPattern.iml" filepath="$PROJECT_DIR$/32-ServiceLocatorPattern/32-ServiceLocatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+    </modules>
+  </component>
+</project>
